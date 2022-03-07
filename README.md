@@ -1,8 +1,7 @@
-# Hello world ^_^
-- 👋 Hi, I’m Nikita. I was an international student in Canada and I'm currently taking a gap year because of the pandemic. 
-- 👀 I’m a theoretical and computational physics enthusiast. I thus worked on some projects in [gitlab](https://gitlab.com/nikita69).
-- 🌱 I have strong skills in <ins>Python</ins> and **data analysis**. I’m currently learning <ins>HTML</ins>, <ins>CSS</ins>, <ins>JavaScript</ins> and <ins>C++</ins>.
-- 💞️ Because I have a lot of free time, I plan to build some blogs/websites dealing with personal topics of interest.
+# Hello world ^-^
+- 👋 Hi, I’m Nikita. I was an international student in Canada and I'm currently taking a gap year in my home country 🏡 because of the pandemic.
+- 👀 I’m a theoretical and computational physics enthusiast ⚛👩‍💻. I previously worked on some projects in [gitlab](https://gitlab.com/nikita69).
+- 🌳 I have strong skills in <ins>Python</ins> and **data analysis/processing** 📊. I’m currently learning <ins>HTML</ins>, <ins>CSS</ins>, <ins>JavaScript</ins> and <ins>C++</ins> 🌱.
 
 
 <!---
